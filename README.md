@@ -7,7 +7,7 @@
 
 |N|date|Topic|
 |--|--|--|
-|1|10 Mar 2021|Intro to ML|
+|1|10 Mar 2021|[Intro to ML](https://github.com/nstsj/ML_for_NLP/tree/main/intro%2Bclassification)|
 |1|17 Mar 2021|Supervised Learning (Classification)|
 |3||Supervised Learning (Linear Regression)|
 |4||Model evaluation: Over/Under-fitting + validation|
