@@ -14,6 +14,6 @@
 |5|27 Mar 2021|Unsupervised Learning: Clustering (K means)|
 |6|31 Mar 2021|Unsupervised Learning: DimRed (PCA, SVD,t-SNE, UMAP)|
 |7|3 Apr 2021|Ensembles (bagging, random forests, boosting)|
-|8|7 Apr 2021|Intro to NN (perceptorns, layers, weights, losses)|
+|8|5 Apr 2021|Intro to NN (perceptorns, layers, weights, losses)|
 |9|10 Apr 2021|CNN|
-|10|14 Apr 2021|RNN + LSTM|
+|10|17 Apr 2021|RNN + LSTM|
