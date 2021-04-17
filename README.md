@@ -15,5 +15,5 @@
 |6|5 Apr 2021|Unsupervised Learning: DimRed (PCA, SVD, LDA)|
 |7|10 Apr 2021|Ensembles (bagging, random forests, boosting)|
 |8|12 Apr 2021|Intro to NN (perceptorns, layers, weights, losses)|
-|9|10 Apr 2021|CNN|
-|10|17 Apr 2021|RNN + LSTM|
+|9|10 Apr 2021|NN for NLP|
+
