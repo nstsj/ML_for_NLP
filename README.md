@@ -10,9 +10,9 @@
 |2|03 Apr 2023|[Supervised Learning (Classification)](https://github.com/nstsj/ML_for_NLP/tree/main/2_classification)|
 |3|05 Apr 2023|[Supervised Learning (Regression)](https://github.com/nstsj/ML_for_NLP/blob/main/3_regressions/class3_Regression-Texts.ipynb)|
 |4|10 Apr 2023|[Model evaluation: Over/Under-fitting + validation](https://github.com/nstsj/ML_for_NLP/blob/main/4_fitting%2Beval/class4_overfitting_validation.ipynb)|
-|5|12 Apr 2023|[Ensembles (bagging, random forests, boosting)]()|
+|5|12 Apr 2023|[Unsupervised Learning: Clustering]()|
 |6|17 Apr 2023|[Unsupervised Learning: DimRed (PCA, SVD, LDA)]()|
-|7|17 Apr 2023|[Unsupervised Learning: Clustering]()|
+|7|17 Apr 2023|[Ensembles (bagging, random forests, boosting)]()|
 |8|19 May 2023|[Intro to Neural Networks]()|
 |9|24 Apr 2023|Surprise Topic, TBA|
 |10|01 May 2023|Surprise Topic,TBA|
