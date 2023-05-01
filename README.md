@@ -14,6 +14,6 @@
 |6|19 Apr 2023|[Unsupervised Learning: DimRed (PCA, SVD, LDA)]()|
 |7|24 Apr 2023|[Ensembles (bagging, random forests, boosting)]()|
 |8|26 Apr 2023|[Intro to Neural Networks]()|
-|9|01 May 2023|Vector Semantics in NLP (word embeddings and how-to) |
-|10|03 May 2023|Surprise Topic,TBA|
+|9|03 May 2023|Vector Semantics for NLP|
+|10|?? May 2023|DVC, Experiment management|
 
