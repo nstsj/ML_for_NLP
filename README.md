@@ -14,6 +14,5 @@
 |6|19 Apr 2023|[Unsupervised Learning: DimRed (PCA, SVD, LDA)](https://github.com/nstsj/ML_for_NLP/blob/main/6_dimred/dimred_for_texts(LDA%2BLSA).ipynb)|
 |7|24 Apr 2023|[Ensembles (bagging, random forests, boosting)](https://github.com/nstsj/ML_for_NLP/blob/main/7_ensembles/ensembles_ML-texts.ipynb)|
 |8|26 Apr 2023|[Intro to Neural Networks](https://github.com/nstsj/ML_for_NLP/blob/main/8_nn/NN_intro_theory.ipynb)|
-|9|?? May 2023|[Vector Semantics for NLP]()|
-|10|?? May 2023|[DVC, Experiment management]()|
-
+|9|13 May 2023|[Vector Semantics for NLP](https://github.com/nstsj/ML_for_NLP/blob/main/9_vector_semantics/Vector_Semantics.ipynb)|
+|10|20 May 2023|[DVC, Experiment management](https://github.com/nstsj/ML_for_NLP/tree/main/10_exp_mgmt)|
